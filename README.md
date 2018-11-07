@@ -13,3 +13,4 @@ After you have installed node.js on your machine you can run the project by doin
 The project wil starts on http and https. 
 The http server starts on http://localhost:3000 and the https server starts on https://localhost:3001 
 
+If you need the change the ports, you can do it in the config.js file. 
